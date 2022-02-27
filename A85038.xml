@@ -1,0 +1,786 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Fuller answer to the moderatour, wherein his argument of advantage and disadvantage is so opened, as that he is laid open too, and made manifest to be an imposter, most grosly abusing king and kingdome. Worthy all men's observation, who, with an entire heart, wish peace to both.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85038</idno>
+            <idno type="STC">Wing F2487</idno>
+            <idno type="STC">Thomason E94_17</idno>
+            <idno type="STC">ESTC R13077</idno>
+            <idno type="EEBO-CITATION">99859404</idno>
+            <idno type="PROQUEST">99859404</idno>
+            <idno type="VID">111479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111479)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E94[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Fuller answer to the moderatour, wherein his argument of advantage and disadvantage is so opened, as that he is laid open too, and made manifest to be an imposter, most grosly abusing king and kingdome. Worthy all men's observation, who, with an entire heart, wish peace to both.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the day of Jacobs trouble, and yeare of hope that he shall be delivered out of it,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>A reply to Povey, Thomas:  The moderator expecting sudden peace (1643).</note>
+                  <note>Annotation on Thomason copy: "March. 30".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Povey, Thomas, fl. 1633-1685. --  Moderator expecting sudden peace or certain ruine.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:111479:1" rendition="simple:additions"/>
+            <head>
+               <hi>A FVLLER ANSVVER TO THE MODERATOVR,</hi> WHEREIN</head>
+            <p>
+               <hi>His Argument of</hi> Advantage <hi>and</hi> Diſ<g ref="char:EOLhyphen"/>advantage <hi>is ſo opened, as that he is laid open too, and made manifeſt to be an impoſtor, moſt groſly abuſing</hi> King <hi>and</hi> Kingdome.</p>
+            <p>
+               <hi>Worthy all men's obſervation, who, with an entire heart, wiſh</hi> Peace <hi>to both.</hi>
+            </p>
+            <bibl>Proverbs 25. 26.</bibl>
+            <q>
+               <hi>When he ſpeaketh faire, beleeve him not; for there are ſeven abominations in his heart.</hi>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am not like one, that taketh a Dog by the eares, for I meddle with a matter belonging unto me <note n="a" place="margin">
+                  <hi>Prov.</hi> 25. 17.</note>: In my Countries peace, I have peace; and while warre is in her gates, I ſhall have no reſt in my spirit. <hi>Peace</hi> is the mother bleſſing, we all as bretheren of the ſame mother (but for our unnaturall diviſions, there are great thoughts of heart) are pretenders to it, we ſeeme to follow, and purſue after it. The Anſwer to the <hi>Moderatour</hi> before this, aſſureth us by the ſame <hi>word,</hi> The Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens and Earth have for their continuance, That all the powers on Earth cannot ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmodate a peace there; Our impieties, ungodly policies, Idols, and lying vani<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, have thruſt away our Peace: and now that it is taken from the Earth, it can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be regained, till we have made Peace with Heaven. And this the Anſwerer has <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld us, ſo well and ſo fully, that it were vaine for me to meddle further in it.</p>
+            <pb n="2" facs="tcp:111479:2"/>
+            <p> He knowes very well, ſo doe all, that have any understanding of the Times, or in the Records thereof, what became of all <hi>Treaties,</hi> wherein Idolaters were Agents: Therefore it had beene folly for him or my ſelfe, to meddle with a <hi>Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itting</hi> on either Party. The Kings party will not remit any thing of their Rigid governement (as the Moderatour calls it in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, and we in earneſt, for ſo it will be, if their counſell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prevaile.) The <hi>Parliament</hi> muſt not remit of their <hi>Imperious</hi> Reformation (the Adverſary calls it ſo, we ſay, and <hi>God</hi> ſayes ſo too, It is not <hi>Imperious</hi> enough, not high enough, but) we are ſure they ſhould <hi>Remit</hi> nothing there: What the one parly will doe, and the other ſhould doe, stands at as full a diſtance from an <hi>honou<g ref="char:EOLhyphen"/>rable Accomodation,</hi> as the two <hi>Poles</hi> stand: at ſuch a diſtance ſtand theſe two Parties, and will ſtand ſo oppoſite while the World ſtands, and <hi>Rome</hi> in the World, and a Papiſt in the Kingdome, that has power in the hand there: And we of the lower ſort, may ſtand with others of a contrary mind to us, like <hi>Doggs</hi> at a <hi>Bay:</hi> But agree we cannot, till the Temple of <hi>GOD,</hi> and Idols be agreed. And this the <hi>Anſwerer</hi> hath made as cleare as the Sunne beame.</p>
+            <p>I ſhall apply my ſelfe only now, to the Moderatours Argument, (handled in two pages, marked with the ſame figure) of <hi>Advantage</hi> and <hi>Diſadvantage,</hi> which the <note place="margin">
+                  <hi>Pag.</hi> 16.</note> Anſwerer hath touched only, and no more: and in refference thereunto, I call this <hi>A Fuller Anſwer,</hi> not that I would diminiſh one mite from the abilities of the An<g ref="char:EOLhyphen"/>ſwerer, or one graine from his Anſwer: He will give me good leave, to be fuller a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that point, whereunto he has spoken little or nothing; and yet it is the killing Ar<g ref="char:EOLhyphen"/>gument; for when he hath well conſidered, what the Moderatour hath ſpoken there, (which on the <hi>ſuddaine</hi> he could not doe) he will ſay, That the Pen of a meane and private perſon could not doe better ſervice to <hi>King</hi> and <hi>Kingdome,</hi> then in ope<g ref="char:EOLhyphen"/>ning that point, and making a full Anſwer thereunto. And the Anſwerer will excuſe me too, when he has read all, That I doe not speake ſo <hi>comely</hi> of the Moderatour, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he has done, f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> truely I am perſwaded, That Charity it ſelfe cannot judge him to be an honeſt Man, becauſe, <hi>directed by Reaſon,</hi> ſayes he, by a low and unſavoury spirit, ſay I, this he ſayes;</p>
+         </div>
+         <div type="dialogue">
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>VVE ſhall find the <hi>Parliament</hi> hath nothing to cement its ſelfe, to increaſe and fixe their party, and keepe it from ſtaggering, but a little temporary reputation, and a reſolution to hold to the publike good.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I muſt not forbeare him here, though the Anſwerer does; he ſpeakes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>wickedly,</hi> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>fooliſhly; wickedly</hi> if he ſpeake in earneſt; <hi>foo<g ref="char:EOLhyphen"/>liſhly</hi> if he ſpeake in jeſt, ſpeaking in ſuch ſerious matters. He ſayes, <hi>We find the</hi> Parliament <hi>hath nothing to cement it ſelfe and fixe their party, but a little tem<g ref="char:EOLhyphen"/>porary reputation.</hi> Alas! what will that doe to fix<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man (for I will ſpeake
+<pb n="3" facs="tcp:111479:2"/> 
+                  <hi>in individio)</hi> and keepe him from <hi>staggering</hi> in ſuch an agony and ſhaking time as this is, when the wicked <hi>Prelates</hi> and ſuch like, muſt be ſhaken out of the earth, where they have taken root this long time, I ſay, ſhaken out, and that is the reaſon of the <hi>Earth-quake.</hi> And what will keep from <hi>ſtaggering</hi> now, will a little temporary reputation doe it? No, no; Alas it is a fluid thing, no fixedneſſe in it at all; and therefore a great deale cannot fixe the man, but unfixe him rather; make him as weake as water; it cannot hold up the ſpirit, and keep from <hi>ſtaggering.</hi> Shall a Parliament-man, (I would be plaine) one, that is choſen to ſtand for thouſands, to appeare for God; to ſtand-up for his Countrey, (he is engaged ſo to doe, by all the obligations that are conceivable) Can this man fixe himſelfe by popular applauſe, by the eſteem and repute the people have of him? Can this keepe a man from <hi>ſtaggering?</hi> But I am not ſuch a foole to queſtion it; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſay, and there is no queſtion to be made of it, A great deale of <hi>Temporary Reputation</hi> will not be ſufficient to fixe a man, no not a little, and to keep from <hi>ſtaggering.</hi> But there is another thing, which fooliſhly and wickedly he puts together, and would cement with temporary reputation (but they can c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment no better then Gold can with Clay) <hi>A reſolution to hold faſt to the publike good.</hi> What is that? The publike <hi>Faith</hi> of the King and Kingdome, <hi>Religion, Truth, Go<g ref="char:EOLhyphen"/>spell;</hi> call it what you will, it is the <hi>publike Good,</hi> the great <hi>Trust</hi> of the Kingdome: Hold faſt to this, and this will doe it, keep from <hi>ſtaggering;</hi> This will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xe a man, keep-up his ſpirit, make him ſtand u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>right though the Earth totter like a drunken Man: How violent ſoever the motions are, though words againſt him, are Swords, and deeds are ungodly and devou<g ref="char:EOLhyphen"/>ring, yet he can appeale to GOD, that he has done his worke, diſcharged his truſt; he has laid out himſelfe for the ſaving a <hi>diſtreſſed Ghurch</hi> and <hi>State;</hi> he has not been <hi>biaſed</hi> to his private wealth; thoughts of the publike have drunke up his ſpirits; This fixeth a Man, keeps him from <hi>ſtaggering</hi> in an earthquake, when the earth is ſmitten, and the Nations are angry, and the Kingdomes are mooved; This I ſay, holds up the ſpirit of this Man, this fix<g ref="char:EOLhyphen"/>eth him, that he h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, doth, and will ſtand up in the <hi>breach;</hi> if he periſh, there he will periſh, in the <hi>breach,</hi> in the reſolution to hold faſt to the <hi>publike good.</hi> And ſee I pray you, and conſider how efficacious this reſolution is to fixe the heart, and to keep from <hi>ſtaggering:</hi> And then ſee how this <hi>Foole</hi> or <hi>Knave,</hi> (which you will, for he is both) hath matched it here<g ref="char:punc">▪</g> with a <hi>little temporary reputation,</hi> and then calls it <hi>nothing,</hi> nothing but <hi>a reſolution to hold faſt to the publike good:</hi> and that is all the <hi>Parliament</hi> hath to cement it ſelfe, to fixe their party, and to keep it from <hi>ſtaggering,</hi> a <hi>Reſolution only to hold fast to the publike good.</hi> They that are the <hi>Parliaments</hi> beſt friends, can wiſh them no more to fixe and ſtabliſh them, but ſuch a <hi>Reſolution;</hi> if they have
+<pb n="4" facs="tcp:111479:3"/> that, they have all, that concernes them in this matter: for, Bleſſed is that Man, who is reſolved to hold faſt to the publike good, for in ſuch a buſineſſe as this, this is all and abundantly ſufficient to fixe the perſon, and to keep from <hi>ſtaggering;</hi> That he hath done his utmoſt; laid-out, and ſpent himſelfe for the <hi>ſaving</hi> (as we may call it indeed) <hi>a diſtreſſed Church and State.</hi> Sure<g ref="char:EOLhyphen"/>ly, though it be not ſaved (which yet we doe not queſtion) yet this perſon may comfort himſelfe as his LORD before him, <hi>My judgement is with the</hi> 
+                  <note place="margin">Eſa. 49. 4.</note> 
+                  <hi>LORD, and my work with my GOD.</hi> He has done his duty as afore-ſaid, not with ſo ſtrong an hand, but with as good an heart as <hi>Joſiah</hi> did; and that is his comfort, and exceeding ſtrong <hi>conſolation;</hi> Now he can remit the mat<g ref="char:EOLhyphen"/>ters, leave it in <hi>Gods</hi> Hands, let Him doe what is good in His <hi>eyes;</hi> he can now <hi>ſtand ſtill</hi> and waight the <hi>ſalvation of GOD,</hi> for he has done his duty; Though, and ſo the Moderatour goes on.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>And this <hi>(viz.)</hi> [a Reſolution to hold faſt to the publike good] if things run ſo high as they doe now, will be called <hi>Rebellious ſtobborunneſſe,</hi> and be branded with the foule imputation of Treaſon.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The Man ſayes true; Things doe run ſo high, as that <hi>a Reſolution to hold faſt to the publike good</hi> is called Rebellion and Treaſon; but it mooves not thoſe, whoſe ſpirits are fixed. It was ſo in Ancient times, they that were fiexdly reſolved to hold to <hi>God,</hi> His Chriſt, His peoples good, were accounted no better then Rebels and Traitours; Gods ſervants are not carefull about <note place="margin">Neh. 4 &amp; 6.</note> this now. But yet let us obſerve how contemptably he ſpeakes of this hol<g ref="char:EOLhyphen"/>ding faſt to the <hi>publike good;</hi> It is <hi>nothing but;</hi> and what more? That which will be called <hi>Rebellion</hi> and <hi>Treaſon:</hi> Be it ſo, ſo called I meane, when it is in deed and truth, the trueſt obedience and higheſt point of loyalty <hi>to hold faſt to the publike good, to preferre that before all your private engagements.</hi> And this I thought fit to inſiſt upon, and make the plainer, That we, the loweſt of the people, may put the more obſervation upon it; and be more reſolved for, and fixed on <hi>the publike good</hi> alſo; That we may looke to our ſtanding, keep our <hi>holdfaſt,</hi> cloſe to the publike good: for that which is good for the King<g ref="char:EOLhyphen"/>dome, is good for us alſo: as, what is <hi>good for the Bee-hive, is good for the Bee.</hi> Let us hold faſt there, while the Moderatour goes on in his Argument.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>Whereas the King (as the chiefe Maſter and diſpencer of the Com<g ref="char:EOLhyphen"/>mon-wealth) is able to fit the humour of every Man, that he hath a mind to take off.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Take off! from what? from a Reſolution <hi>to hold faſt to the publike good.</hi> That is his meaning, and it can be no other. And who muſt take them off? The King, <hi>the chiefe Master and diſpencer of the Common-wealth;</hi> he that ſhould ſtand like the ſtalke of a Ballance; he that is the <hi>Father</hi> of his <hi>Coun<g ref="char:EOLhyphen"/>trey,</hi> and, as a <hi>Father,</hi> ſhould tender his <hi>Subjests;</hi> and, next to his own Soule;
+<pb n="5" facs="tcp:111479:3"/> mind only their good; he muſt take them off. Whom will he take off? The <hi>proud</hi> Man, the <hi>ambitious</hi> Man, the <hi>buſie</hi> Man. And he ſhall doe it, I meane, The King is able to call theſe forth, to his foot; for theſe mind their private wealth, and ſo they may build-up that, they care not though the <hi>publike</hi> fall to ruine; he ſhall be able to tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe off, for they were never on. But what meanes has the King to effect this? what wayes hath he to take theſe perſons off from ſerving the <hi>publike good?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>That which will fit every mans humour, [the better, the veryer Knave he is] The King has <hi>honour</hi> for the <hi>proud;</hi> places of Truſt [ſuch a place as <hi>Hull,</hi> a place of Truſt, and being ſo, not] for the Ambitious man; inferiour Offices, for the <hi>buſie</hi> Man; favour and promiſes, and a poſſibility of ſeverall preferments to invite all ſorts of men to him.</q> What to doe when they are come? To betray the <hi>publike good, the places of Truſt.</hi> Is this the advan<g ref="char:EOLhyphen"/>tage on the Kings ſide! I ſpeake it with indignation; is this it? Are theſe his guifts, and beſtowed upon ſuch perſons, and for theſe ends? he could not have ſpoken more to the diſhonour of his Prince, not more to the honour of the <hi>Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The King has Power, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I will cut him ſhort here, for he ſpeakes proudly. The King has <hi>Power,</hi> ſo much as is derived from <hi>God,</hi> or permitted to him: So much <hi>Power</hi> he has and no more: Nor Prince nor people, have any power of their own, but to ſinne againſt <hi>God,</hi> to doe wickedly, to <hi>ſhed blood to their power</hi> 
+                  <note n="a" place="margin">Ezek. 22. 6.</note>: But no pow<g ref="char:EOLhyphen"/>er they have to doe good, nor knowledge there; It is too high for them <note n="b" place="margin">Prov. 14. 7.</note>; This power is loſt and never recovered againe, but by a full and free acknow<g ref="char:EOLhyphen"/>ledgement that ſo it is, <hi>That a power of doing good is gone,</hi> and a power of do<g ref="char:EOLhyphen"/>ing evill <hi>as we can</hi> 
+                  <note n="c" place="margin">Ier. 3. 5.</note>, remaines, and will remaine fixed in the heart, till an humble confeſſion remooves, and throwes it forth. This is not to the Mo<g ref="char:EOLhyphen"/>deratours purpoſe; but of infinite concernement, and a prime point of know<g ref="char:EOLhyphen"/>ledge this; To know That Man has no power of his own, to doe good; But to doe contrary, his power is ſufficient. It followes;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>He hath the power of a Pardon.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A Pardon! for whom? for Rebels and Traitours; Who are they? Thoſe that are reſolved to hold faſt to the <hi>publike good;</hi> To the cauſe of <hi>God;</hi> to His Worſhip; theſe are Traitours and Rebels in this mans account, for ſo his words relate if you will obſerve and conſter them.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>He hath the power of a Pardon, to hold out like a Lure, to fetch in ſuch as have <hi>turned taile,</hi> and would turne againe, but dare not ſtoope till a Pardon call them in.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No, Let them ſtoope to a <hi>Lure,</hi> who have ſtood-up ſtoutly againſt GOD; have turned <hi>head</hi> and <hi>taile</hi> againſt <hi>Him;</hi> Theſe are reſolved to looke
+<pb n="6" facs="tcp:111479:4"/> ſtrait forward, and not looke after a <hi>Lure,</hi> nor reſpect a Pardon for their good ſervice done to the <hi>publike:</hi> Though he that has done beſt, and has been moſt reſolved for the <hi>publike good,</hi> does ſay, as <hi>Nehemiah</hi> did, for our beſt works need a <hi>Prieſt,</hi> and an <hi>Altar,</hi> and a <hi>Sacrifice;</hi> I meane a pardon; <hi>Remember me (O my GOD) concerning this alſo, and SPARE me according to the great<g ref="char:EOLhyphen"/>neſſe</hi> 
+                  <note place="margin">Neh. 13. 22.</note> 
+                  <hi>of Thy Mercy.</hi>
+               </p>
+               <p>I will adde; I never yet ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w ſuch a pack of knavery open before me in ſo narrow a compaſſe, tending ſo directly to the diſhonour of his Prince, and to the honour of his loving ſubjects; To the Diſadvantage of the King, and to the Advantage of his faithfull people; ſuch as <hi>hold faſt to the publike good,</hi> and are reſolved ſo to doe. And yet we have not heard halfe; he goes on to ſhew the Advantage on the Kings ſide. What is that?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>A King can keep off the aid of forraigne States from his <hi>Parliament:</hi> [who deſire none but for the Defence of the King and Kingdome] how will he doe it?</q> 
+                  <q>The King will uſe all Arts, having the moſt expert inſtru<g ref="char:EOLhyphen"/>ments for it, to diſable or take off that party; and he may doe it very eaſily, by corrupting ſome Eminent <hi>Engineere</hi> there, ſome great Officers, or moſt popular Men, or by kindling ſome diviſions, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Certainely there was never ſuch a Knave read in Print; how dares he lay open the nakedneſſe of his King? how dares he inſtruct his Prince to deale corruptly; To kindle diviſions in other States, though thereby he could ſoder and cement his owne? how dares he put that downe for an Advantage to his Kings Crowne and Dignity, which la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es his Honour in the duſt? Corrupt dealing! how farre below a Prince! [The <hi>chiefe Master and diſ<g ref="char:EOLhyphen"/>pencer of the Common-wealth]</hi> that is uncomely for a Peaſant? Let right be done though the world and the things thereof ſhatter to peeces.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>He tells us next; We have an encouraging Preſident of the <hi>Scots,</hi> as we looke upon it, but we are miſtaken both in the circumſtances and na<g ref="char:EOLhyphen"/>ture of the Caſe.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Truly miſtaken we are (I think) and yet not in the nature of the Caſe, but unhappily, perhaps, in the managing of it. The Cauſe the <hi>Scots</hi> maintai<g ref="char:EOLhyphen"/>ned, was the Cauſe of GOD, and His Anointed, The Publike Faith of the Kingdome, <hi>Religion, Truth, Gospell:</hi> That is our caſe too. But I feare we doe not make it the principall, chiefe and maſter-piece of our worke, as cer<g ref="char:EOLhyphen"/>tainely they did; for they did manage it as the Cauſe of GOD. We doe not follow it ſo, with ſo ſingle an eye; we doe not, if I obſerve aright, keepe cloſe to the Cauſe, nor to our covenant: we are not conſtant, we doe not <hi>hold-faſt</hi> to it; we doe not ſhape and mould all our actions thereunto; we are more for our outward liberties, then for the priviledges of the Saints, our eye is not ſingle that way if I diſcerne aright: And if ſo, then there is a great
+<pb n="7" facs="tcp:111479:4"/> difference in point of circumſtance and manner of proſecuting this great worke; but in the nature of the Cauſe, the <hi>Scots</hi> and ours, I conceive there is no conſiderable d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence at all. He proſecutes the Argument of Advantage on the Kings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſayes;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The King is more likely to draw to him the affections of the people, in that the preſſures and miſcarriages of this late governement are paſſed, and almoſt expiated by his acknowledgment.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Here he ſpeaks reaſon, and more; It is the honour of a King to paſſe by an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, then the duty of a ſubject to paſſe by the errour of their King; and, though he ſhould not acknowledge it, yet our duty to goe backward with a cloth to cover what might be uncomely in a King. Doubtleſſe, and ſo his good people did, and ſo I paſſe it over. The Moderatour adds.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>And a Promiſe of a Redreſſe.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A <hi>Promiſe!</hi> he might have added, and <hi>Proteſtations</hi> too, as ſolemne as are conceivable. And we will beleeve, That the King ſpeakes as he meanes; his thoughts are ſad and ſerious for the publike good; we will hope and think ſo. <hi>It is the glory of GOD to conceale a thing; but the honour of Kings is to</hi> 
+                  <note place="margin">Prov. 25. 1, 3.</note> 
+                  <hi>ſearch out a matter: The Heaven for height, and the Earth for depth, and the heart of Kings is unſearcheable.</hi> The wiſe Man do's not tell us here what guile and deceit lies in the heart; nor what an <hi>Abyſſe,</hi> a bottomleſſe thing the <hi>heart</hi> is; though that be true alſo: But how ſad, and ſerious, and deep the thoughts of Kings are for <hi>the good of their ſubjects, and eſtabliſhment of Peace in their borders,</hi> how fixed upon that. And this we will <hi>force</hi> our ſelves, notwithſtanding what went before, and what will follow anon, to beleeve, is the Kings pur<g ref="char:EOLhyphen"/>poſe. But this we muſt beleeve alſo; That the heart is, in this ſence, an <hi>Abyſſe,</hi> a deepe, which the wiſeſt Man, (a Man and no more) that ever was upon the earth, could never bottome. It is <hi>deceitfull above all things,</hi> and, we <note place="margin">Ier. 17 9.</note> may adde, <hi>desperately wicked:</hi> No wiſe Man did ever give truſt unto it, no not to his own promiſes: A man may promiſe that, which he thinks verily to performe, as the <hi>Iſraelites</hi> once did; <hi>ſpeake thou unto us, all that the LORD</hi> 
+                  <note place="margin">Deut. 5. 27.</note> 
+                  <hi>our GOD ſhall ſpeake unto thee, and we will heare it, and doe it:</hi> And yet all this was as the LORD ſaid, but <hi>the voice of words,</hi> not the <hi>voice</hi> of the <hi>heart;</hi> That flinkes away, would not be engaged. And, yet I ſay, a Man may promiſe, that, which he thinks verily to performe; and, when it comes to the point, he flies off: why? The reaſon is: It was the <hi>voice of words,</hi> not of the <hi>heart.</hi> A deceived heart has beguiled him, it has <hi>turned him aſide</hi> from his purpoſe; The heart would beare no part there, would endure no band or engagement;</p>
+               <p>We cannot forget what we read related of <hi>Lady Mary,</hi> Daughter to <hi>Hen.</hi> 8. The Crowne was now unſetled; and, to ſettle it upon her own head, ſhe craved the aide of <hi>Suffolk</hi> men, amongſt whom ſhe was in <hi>Fremingham Caſtle</hi>
+                  <pb n="8" facs="tcp:111479:5"/> there. They were very ready to give her their beſt helpe, and aſſiſtance, on this condition, <hi>That ſhe would make no alteration of Religion, which her Brother King</hi> Edward <hi>had before eſtabliſhed:</hi> The Lady was as ready to Promiſe, as they were to aske: And ſuch a Promiſe ſhe made unto them, <hi>[That no alteration ſhould be made of Religion] as that</hi> (I will ſet down the very words) <hi>no man would or could then have miſdoubted her.</hi> That which followes is re<g ref="char:EOLhyphen"/>markable, but this only to our purpoſe; By the help of the <hi>Goſpellers</hi> (that is the Authours word, he means the <hi>Suffolk</hi> men, forward in promoting the proceedings of the Goſpell) ſhe did vanqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the good Duke of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> attained her haven, and had the Crowne. Theſe <hi>Suffolke</hi> men now, to whom ſhe ſtood engaged next unto <hi>God,</hi> ſupplicate their Queene now to performe her Promiſe, from whom they received this heavy Anſwer (ſo M<hi rend="sup">r</hi>. <hi>Fox</hi> calls it, and I will keep to his words) <hi>forſomuch</hi> (ſaith ſhe) <hi>as you, being but members, deſire to rule your head, you ſhall one day well perceive, that members muſt obey their head, and not looke to beare rule over the ſame.</hi> I will take leave to reply; The Goſpellers did not ſeeke to beare rule over her; No, They ſought her peace, and the peace of her Kingdome, the maintenance of that, which would effect all this, eſtabliſh her peace, and theirs. They be<g ref="char:EOLhyphen"/>ſought her to remember her Promiſe touching the <hi>Goſpell,</hi> which, being main<g ref="char:EOLhyphen"/>tained in truth, would ſtabliſh her Throne, and Kingdome for ever: ſo they beſought her. But they ſaw now, that ſhe ſpake to them before, as a Lady, that would be Queene; and now, as one that knew her ſelfe Queene: and ſo anſwers them cleane croſſe to expectation and Promiſe. For, indeed, what ſhe promiſed them before, was the <hi>voice of words only;</hi> and what ſhe ſaid afterwards, was the <hi>voice</hi> of her <hi>heart.</hi> The reſult of all this is, That the Promiſe of the tongue is but the <hi>voice of words,</hi> which may deceive a mans ſelfe, as well as thoſe, that truſt to it: The <hi>voice</hi> of the <hi>heart</hi> is not heard till afterwards; and what that will be, the Man himſelfe, perhaps, knowes not, till time has told him how falſe the heart is; ſo falſe, that no man will truſt it; for a thouſand experiences have told him, That, when he thought verily the heart ſpake, it was but the tongue, the <hi>voice of words,</hi> the heart ſpake nothing, that was ſilent. The Moderatour goes on, will tell us the Advan<g ref="char:EOLhyphen"/>tage of <hi>ſillables,</hi> and yet we will not think him a <hi>Conjurer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>But to goe on in our Argument of <hi>Advantage</hi> and <hi>Diſadvantage;</hi> The King is a <hi>ſyllable</hi> of as much Advantage as another Army.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And more; we acknowledge it with as loyall hearts as once the people ſhewed to <hi>David, Thou art worth Ten thouſand of us</hi> 
+                  <note n="d" place="margin">2 Sam. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. 3.</note>. So <hi>David</hi> was when he ruled with <hi>God;</hi> and for <hi>God,</hi> by His Law-booke, and ſitting in <hi>Gods</hi> Throne, <hi>Gods</hi> Deputy, and Vicegerent: ſo conſiderable <hi>David</hi> was, a ſyl<g ref="char:EOLhyphen"/>lable of ſuch advantage to his Kingdome: And the deſire of our ſoules is,
+<pb n="9" facs="tcp:111479:5"/> That our King may be ſuch an one, ſo conſiderable, and of that advantage to himſelfe and to his whole Kingdome. But, ſo he is not as he is King, but as he rules for <hi>God;</hi> commands from His Mouth; orders and directs all by Statute-law, in his <hi>Law-booke;</hi> If he goes croſſe to this, he is a ſyllable ſtill, <note place="margin">Deut. 17.</note> and of the greateſt diſadvantage to himſelfe and Kingdome, That is concei<g ref="char:EOLhyphen"/>vable. I remember a ſad Story; <hi>Jehoram</hi> Son of <hi>Ahab,</hi> being with two more Kings in a great ſtrait, went downe to <hi>Eliſha,</hi> thinking himſelfe a very con<g ref="char:EOLhyphen"/>ſiderable Perſon, being King; and that <hi>Eliſha</hi> would reſpect him. It was otherwiſe, <hi>What have I to doe with thee,</hi> ſaid <hi>Eliſha</hi> to the King; <hi>get thee to the Prophets of thy Father, and to the Prophets of thy Mother.</hi> O ſay not ſo ſayes <note place="margin">2 King. 3. 13.</note> the King; ſend me not to them, they cannot help me in this extremity: And <hi>Eliſha</hi> ſaid; <hi>As the LORD of Hoſts liveth before whom I ſtand, ſurely, were it not that I regard the preſence of</hi> Jehoſhaphat <hi>the King of</hi> Judah, <hi>I would not</hi> 
+                  <note place="margin">ver. 14.</note> 
+                  <hi>looke towards thee nor ſee thee.</hi> I relate it here for this very reaſon, That we may know, a King is not a <hi>ſyllable</hi> of Advantage, if he rule not as a King, by the Rule of Heaven and <hi>Law</hi> of his GOD. Againe, we doe not well to put vertue and efficacy into ſyllables, they have no more vertue in them, then is in <hi>ſpells,</hi> and that is to doe hurt and miſchiefe, for they worke in the Devils Name. If I would put any virtue there, I could ſay as much for Diſadvantage; The King is but one ſyllable, no more is a <hi>Queene</hi> neither, yet, coming to <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> ſhe turned away the heart of the wiſeſt King from <hi>God,</hi> ſhe darkened all his glory: And afterwards ſhe was of more diſadvantage to all <hi>Judah,</hi> then an Hoſt of a <hi>Thouſand thouſand:</hi> for ſuch an Hoſt could not hurt <hi>Judah,</hi> nor the King thereof; but a <hi>Queene</hi> deſtroyed the King, and his houſe, and his Kingdome. We might goe on and ſhew the vir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue and effecacy of mono<g ref="char:EOLhyphen"/>ſyllables, for diſadvantage to King and Kingdome. <hi>Blood,</hi> but one ſyllable, and yet, the ſtaine of it could never be remooved till <hi>Judah</hi> was remooved from out of Gods ſight; And when <hi>God</hi> makes inquiſition for blood, layes it, reallizeth it upon the <hi>conſcience,</hi> it ſhall be ſhaken as <hi>Belſhaſars knees were</hi> when they ſmote one againſt the other. So, theſe <hi>Gods,</hi> which Idolaters make ſo, are but one ſyllable neither, yet more <hi>skilfull</hi> to deſtroy Kingdomes, then <hi>Armies are.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The King in his very Name is ſacred and Powerfull, and ſhakes the conſciences of many.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes; it is a ſacred Name and powerfull, and may ſhake the conſcien<g ref="char:EOLhyphen"/>ces of them, that have ſo much as a diſloyall thought againſt his ſacred Ma<g ref="char:EOLhyphen"/>jeſty. But it cannot ſhake them, not their conſciences, who have reſolutly held faſt to the <hi>publike,</hi> laid out themſelves in maintaining the Cauſe of their <hi>God,</hi> the Crowne of their King, the glory of his Kingdome; his Name can<g ref="char:EOLhyphen"/>not ſhake their conſciences, bearing them witneſſe, their <hi>God</hi> alſo, that ſo
+<pb n="10" facs="tcp:111479:6"/> they have done in ſincerity and uprightneſſe of heart; And in this thing they appeale to <hi>God,</hi> and ſtand better <hi>bottomed then the everlaſting hills, they cannot be mooved.</hi> Nay, the ſacred Name of a King ſhakes no Man, that does not ſee more in his King then in his <hi>God.</hi> And many ſuch there are, that walk by ſenſe, they know their King, but they know not their <hi>God;</hi> with His help I ſhall unvaile their eyes anon, only this here. Doth this Name of a King, and no more, ſhake the conſciences of men? What can GOD doe then, but one ſyllable neither, He will ſhake them to peices, (their conſciences are rotten already,) He will breake them as a Potters veſſell, who, for feare of a Man, have deſer<g ref="char:EOLhyphen"/>ted His Cauſe, the <hi>Truth,</hi> the <hi>Goſpell;</hi> and, what in them lies, have given it up to the enemies hand: <hi>God,</hi> the <hi>KING</hi> of <hi>Kings,</hi> and <hi>LORD</hi> of <hi>Lords,</hi> will <hi>ſhatter</hi> theſe men to peeces, who have turned <hi>head</hi> and <hi>taile</hi> both againſt their <hi>God,</hi> their King and Countrey. I will adde a word or two more, for this is the killing Argument; <hi>Your King!</hi> goe againſt your King! he is more conſiderable then an Army! will you fight againſt him? That has been Anſwered Ten times, It ſhall have no Anſwer here. If I could teach the Countrey man to ſpeake, who ſees more in a King, then he does in his <hi>God,</hi> he ſhould reply from <hi>Gods</hi> Mouth, by way of Queſtion too; A GOD! but one ſyllable, yet of more Advantage then all the Armies in the world; In His very <hi>Name,</hi> He is ſacred, and <hi>terrible;</hi> I heard Thy <hi>voice,</hi> and I was afraid, ſaid <hi>Adam:</hi> I heard Thy <hi>NAME</hi> ſayes another, and I trembled. Shall I fight againſt GOD, His Chriſt, His Truth? His terrour makes me afraid. <q>If I doe, ſo, as now the moſt doe, He will hold me up to the wind, and ſhake me to peeces; for He is <hi>God,</hi> heare Him what He ſaith; <hi>Gird up thy loynes now like a man, I will demand of thee, and declare thou unto Mee:</hi> 
+                     <note place="margin">Iob 40. 7.</note> Wilt thou alſo diſanull my judgement; wilt thou condemne Me that thou <note place="margin">ver. 8.</note> mayeſt be righteous? Haſt thou an arme like GOD? or canſt thou thunder with a voice like Him? Deck thy ſelfe now with Majeſty and excellency, <note place="margin">ver. 9. ver. 10.</note> and aray thy ſelfe with glory and beauty: Caſt abroad the rage of thy wrath, and behold every one that is proud and abaſe him: looke on every <note place="margin">ver. 11. ver. 12.</note> one that is proud, and bring him low, and tread down the wicked in their place: Hide them in the duſt together, and bind their faces in the ſecret.</q> 
+                  <note place="margin">ver. 13.</note> (If thus thou canſt doe, as <hi>God</hi> can doe, and does doe,) <hi>Then will I alſo con<g ref="char:EOLhyphen"/>feſſe unto thee, that thine owne right hand can ſave thee.</hi> I adde; then let the <note place="margin">ver. 14.</note> terrour of the LORD make me afraid; and not the terrour of a Man; let His Name be ſacred and Powerfull, to ſhake my conſcience, that I may not entertaine a proud thought; much leſſe lift up a hand againſt Him. The Mode<g ref="char:EOLhyphen"/>ratous ſets up Man too high, he ſets him as <hi>Lord</hi> in the conſciences of <hi>men; God</hi> is to be ſet there, for He has His Throne there, and He only; A King not ſo, but as he commands from <hi>Gods</hi> Mouth; ſo he muſt be obeyed: And
+<pb n="11" facs="tcp:111479:6"/> he may be followed, but not a ſtep farther then as he followes the LORD CHRIST; Who is given a <hi>Commander and a Leader to His people.</hi> 
+                  <note place="margin">Eſa. 55. 4.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The King hath the Advantage of the written Law.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If he has the Law on his ſide, the <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</hi> of <hi>GOD,</hi> or the <hi>Law</hi> of <hi>Man,</hi> (I would ſpeake as briefely as I could) If he has any <hi>Law</hi> on his ſide, the leaſt tittle of <hi>Law,</hi> then acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſed be they, that are on the other ſide; for they pretend to ſtand-up for the <hi>Law,</hi> and they goe point-blanck againſt the <hi>Law,</hi> if this be true, for ſayes the Moderatour, <hi>The King has the advantage of the written Law.</hi> We need not the honeſt Lawyers help here; he has done his part, and has declared it twice, nay thrice; That the King has no more Ad<g ref="char:EOLhyphen"/>vantage of <hi>the written Law,</hi> for that he does, Then <hi>Jezabel</hi> had (for ſhe ru<g ref="char:EOLhyphen"/>led in chiefe) and <hi>Ahab,</hi> for taking away <hi>Naboths</hi> life, and then his vineyard: And yet the Moderatour goes on;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>Which wtitten Law, the King can uſe now in his Defence.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Now! and heretofore as well as now, and hereafter as well as now; If he has the advantage of the written Law, let him take it, curſed is he that denies him that Advantage, which the meaneſt ſubject will challenge as his birthright, and would fight for it too, if his Armour were not taken away, for he fights for the Law of his <hi>God</hi> too. The Moderatour goes on;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>And by the Authority of the written Law joyned with the Power of the Sword, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The King hath as loyall ſubjects as ever any King in the world ever had, they never put up any other Petition unto their King, then that he would governe them by the <hi>written Law,</hi> for therein is contained, the Kings power, and his peoples rights; The Law diſpenceth, orders, and limits all this. Why then do's the King joyne thereunto [to the written Law] the power of his Sword, that oppreſſing thing, which works ſo contrary to the <hi>Law,</hi> making it ſpeechleſſe, and putting it out of office? The Moderatour will doe us ſome little favour and reſolve us here.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>By the Authority of the written Law, joyned with the Sword, the King can thunder out accuſations, and, perhaps, the penalties of Treaſon againſt thoſe, whom he ſhall call his oppoſers.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Call his oppoſers! That's brave but not good <hi>Law</hi> ſure. Pardon me, <note place="margin">No mat<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r whom Man calls but whom <hi>Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> calls oppoſers.</note> Sir, but I will not pardon you; you doe inable the King by the authority of the Law, to doe the greateſt injury that is imaginable. What is that? To thunder out accuſations againſt the innocent, and penalties of Treaſon againſt the lawaliſts in the Kingdome; for ſo he do's, when he do's it againſt thoſe, whom <hi>he calls oppoſers,</hi> and ſo expoſeth himſelfe to the wrath of the Almigh<g ref="char:EOLhyphen"/>ty; The LORD will ſmite that Ruler (a moſt notorious hypocrite, like a <note place="margin">Mat. 23. 27.</note> whited wall or Sepulcher) who ſitteth to judge His people after the Law,
+<pb n="12" facs="tcp:111479:7"/> and will ſmite thoſe with his tongue, and hand, whom <hi>he ſhall call oppoſers,</hi> 
+                  <note place="margin">Acts 23. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>contrary to the Law.</hi> He calls oppoſers! then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e do's them wrong; if the <hi>Law</hi> calls them not ſo, they ſtand <hi>recti in Curiâ,</hi> cleare and upright both in the Court above, and here below, and within their own breaſt; It is not whom the King calls <hi>oppoſers,</hi> but whom the Law calls <hi>oppoſers,</hi> and by au<g ref="char:EOLhyphen"/>thority thereof are found ſo to be; and if the King ſhall ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en and thun<g ref="char:EOLhyphen"/>der too againſt thoſe, <hi>he ſhall call oppoſers againſt the authority of the Law,</hi> they ſo called, and ſo thundered againſt, will regard this thunder, no more, then they doe the crackings of that the boyes call <hi>Grackers</hi> and <hi>Squibs</hi> I think, but I know no more doe they care what they be called, whom the <hi>King calls oppoſers,</hi> the <hi>Law</hi> calls good ſubjects. And though he takes to him the power of the Sword, againſt the authority of the <hi>Law,</hi> yet it is <hi>Gods</hi> Sword, and the judge of all the world will doe right: And theſe men, whom the <hi>King calls oppoſers,</hi> doe expect helpe from <hi>God</hi> according to the uprightneſſe in their hearts, and the innocency found in their hands touching this matter.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>The King has a Counſell.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, that he has; as <hi>Iſrael</hi> ſaid once, ſo the <hi>worme Jacob</hi> now, <hi>My ſoule come not thou into their ſecret, unto their Aſſembly, mine honour be not</hi> 
+                  <note place="margin">Gen 49. 6.</note> 
+                  <hi>united:</hi> for they counſell the King to the deſtruction of the King and King<g ref="char:EOLhyphen"/>dome, To goe againſt Law; to call them Rebels and Traitors, whom he <hi>calls oppoſers,</hi> but the <hi>Law</hi> calls the <hi>beſt ſubjects.</hi> Let me be called a Rebell and a Traitour too (for truely it is an honour) ſo long as the Law cleareth me to be a good ſubject and an honeſt Man. But this is the reſult of the <hi>Counſell;</hi> I cannot forbeare, curſed be their advice for it is carried headlong, and their <hi>counſell</hi> for it is cruell, <hi>The</hi> Lord <hi>will divide them in</hi> Jacob <hi>and ſcatter them in</hi> 
+                  <note place="margin">ver. 7.</note> Iſrael, <hi>Amen.</hi> He goes on to tell us more touching the Kings Counſell.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>He has a Counſell ſo well mingled.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What are the ingredients? They have knowledge, that is granted them: What is mingled with it? The Moderatour tells us in plaine termes, cunning, <hi>fraud, craft;</hi> his Counſellours, like the crooked Serpent, are ſubtill, and can turne and ſpye into all <hi>the windings of State.</hi> He might have called them Knaves as well, for it is as good Engliſh, and certainely good Law too; Knaves in graine, <hi>Magni Nebulones,</hi> as one ſaith, and <hi>Magni Latrones</hi> too, Great Robbers: and the Moderatour ſhall proove it to be even ſo; for he tells us, The Kings Counſellours, ſome of them, are verſed and cunning in the Law, and know: what doe they know? <hi>how to turne the Law to the moſt neceſſary uſe;</hi> I pray what is that, for I would faine know the uſe of the <hi>Law?</hi> He tells us; <hi>to the destruction of King and Kingdome;</hi> it is juſt ſo; when cun<g ref="char:EOLhyphen"/>ning crafty Lawyers will <hi>turne</hi> the <hi>Law,</hi> which is a ſtrait Rule, when they will <hi>turne</hi> it, and <hi>biaſſe</hi> it at their pleaſure, it is <hi>to the deſtruction of King and</hi>
+                  <pb n="13" facs="tcp:111479:7"/> 
+                  <hi>Kingdome,</hi> that all may be wiped as a Man wipes a diſh, <hi>turning it upſide downe.</hi> So I ſay it is, when the <hi>Law</hi> is <hi>turned;</hi> for let the <hi>Law</hi> goe on its <note place="margin">2 King. 21. 13.</note> courſe, it tends directly to the ſalvation of the <hi>King</hi> and <hi>Kingdome.</hi> Theſe cunning Lawyers then, ſo crafty in all the windings of State, are great Knaves, I will ſpeake it againe, and great Robbers, for they ſteale away the ſupporters of the Kings Throne; and, by turning the Law (that ſweet bleſ<g ref="char:EOLhyphen"/>ſing) into <hi>gall</hi> and <hi>wormewood,</hi> they lay waſte his Kingdome. Is he a Thiefe that picks my pocket; or breakes open my doores? That he is, the Law tells me ſo, he is a thiefe? what is he then that ſteales away the Kingdomes chie<g ref="char:EOLhyphen"/>feſt tre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſure, its birth-right, and layes open the <hi>frontiers</hi> of the Kingdome, to <hi>Beaſts</hi> like themſelves, <hi>Robbers and spoilers skilfull to deſtroy?</hi> The Law aſſureth us, that theſe are Thieves, Robbers rather. This puts me <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mind of a pretty diſtinction between <hi>Fur</hi> a <hi>Thiefe,</hi> and <hi>Prado</hi> a <hi>Robber.</hi> The <hi>Fur</hi> is he, who picks your pocket, or your houſe; takes away your Oxe or your Aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, does you ſome private injury; This <hi>Praedo</hi> a Robber is he, who robbs a whole Nation, and what in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lyes, ruines a whole Kingdome. It minds me alſo what a poore <hi>little</hi> Thiefe told <hi>Alexander</hi> the <hi>great.</hi> 
+                  <q>I ſteale ſome petty matters from ſome private men; Thou doſt ſpoile and rob whole Kingdomes: I am poore and am quickly taken off, and ſhort by the neck, thou art mighty and canſt breake through; but ſo it comes to paſſe, <hi>That great Thieves ſend little Thieves to the gallowes:</hi> and theſe we have met with here, Men verſed and cunning in the Law, that know how to <hi>turne it to the moſt neceſſary uſe,</hi> ſayes the Moderatour; to the moſt pernicious abuſe ſay we; and to the greateſt diſadvantage of <hi>King</hi> and <hi>Kingdome.</hi>
+                  </q> Now we may diſcerne what <hi>peace</hi> we ſhall have of this <hi>Parties</hi> making, when theſe are the agents for an Accomo<g ref="char:EOLhyphen"/>dation, <hi>proud, ambitious, buſie</hi> men, taken off from the <hi>publike good</hi> by favour and promiſes; and made to turne <hi>head</hi> and <hi>taile</hi> againſt <hi>GOD,</hi> His <hi>Truth</hi> and <hi>Peace.</hi> When <hi>Spirituall Lords</hi> are agents for <hi>Peace,</hi> whom the Land have ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed-out, becauſe they have taken Peace from the earth: and now they would accomodate a Peace, that they might thruſt themſelves into their pla<g ref="char:EOLhyphen"/>ces againe, there to murther more ſoules, as if their iniquities that way were <hi>not yet full.</hi> When <hi>Achitophels</hi> are agents for Peace; Men cunning and crafty in all the windings of State, and ſo know how to turne the <hi>Law</hi> to the <hi>moſt pernicious abuſe:</hi> And when corruption is uſed alſo, to fetch-in ſome eminent <hi>Engeneers,</hi> ſome <hi>great Officers and moſt popular Men.</hi> I aske againe; what kind of <hi>Peace</hi> will this be, which this <hi>Party</hi> will Accomodat? We need not gueſſe, we can anſwer punctually to the matter; A <hi>peace,</hi> that has no reſpect to the honour of GOD; to the glory of His Anointed, none at all. No regard to <hi>Truth,</hi> to <hi>Holyneſſe,</hi> none at all; A <hi>Peace,</hi> which will be as a <hi>Sword in the bones of the Righteous,</hi> becauſe thereby the <hi>Name</hi> of the LORD will be blaſ<g ref="char:EOLhyphen"/>phemed.
+<pb n="14" facs="tcp:111479:8"/> Doe we doubt of this? Looke againe upon the Kings Party, whom he reckons on his ſide, and are of his Counſell here, <hi>proud Men, ambitious buſie Men, Spirituall Lords,</hi> cunning, ſubtill, crafty in all the windings of State, and know how <hi>to turne the Law</hi> (as they have turned Religion) <hi>to the moſt neceſſary uſe.</hi> We need no more. They that are ſo cunning to <hi>turne</hi> the <hi>LAW</hi> of <hi>GOD</hi> and <hi>Man</hi> as they pleaſe, know as well, and are as skilfull to turne the <hi>Peace</hi> as well (for it is as ductill through their hands as the <hi>Law</hi> is,) they can and will <hi>bias</hi> that alſo to their own ends, the dethroning the LORD CHRIST, and inthroning the <hi>Pope</hi> and his <hi>Prelats;</hi> the ſetting up their <hi>Da<g ref="char:EOLhyphen"/>gon,</hi> the furthering their Party; their deſperate and bloody deſignes.</p>
+               <p>From a <hi>Peace</hi> made up by theſe men, and by their meanes, ſuch a pack of knaves and their knavery, <hi>good Lord deliver us:</hi> Amen, ſay all that know what they ſay; and they know their GOD will doe it: Their <hi>GOD</hi> and <hi>Prince of Peace</hi> will not give His people ſuch a Peace, ſo packt-up; for they will give their <hi>LORD no rest</hi> for this thing; that they may have a <hi>Peace</hi> of His gi<g ref="char:EOLhyphen"/>ving, and bequeathed unto them by their <hi>PRINCE of Peace,</hi> Amen.</p>
+               <p>From theſe premiſes well thought upon, we can commune with our own hearts, and argue the Caſe as men, that have ſenſe left them, and are <hi>directed by reaſon:</hi> As for any higher principle, we will not ſeeme to reach after it, or care for it; We will reaſon with our ſelves according to our common capacity as reaſonable men. Thus we reaſon; They that hold faſt to the <hi>publike good,</hi> [the common faith of the Kingdome,] theſe are called Rebels and Traitours: and are ſo dealt with, and injured according to the power in the hand. The <hi>Law</hi> which is every mans Maſter, and the common Treaſury, which diſpen<g ref="char:EOLhyphen"/>ſeth to every Man his right, is turned to the deſtruction of King and King<g ref="char:EOLhyphen"/>dome: They, who oppoſe with all their might, the Lawes of GOD and Man are accounted good Men and Subjects: They that oppoſe theſe, and withſtand their deſperate and bloody deſignes are <hi>called oppoſers.</hi>
+               </p>
+               <p>Directed by reaſon what is to be done now? certainely it is not que<g ref="char:EOLhyphen"/>ſtionable, not a matter to be <hi>parlied on,</hi> whether a free people ſhall ſtand up for their own lives, their Wives and children, againſt mercileſſe and bloody Adverſaries, who delight in proud wrath? Directed by reaſon we cannot ſtand to parle about this, <hi>for know we not yet that our</hi> Canaan <hi>is deſtroyed?</hi> We <note place="margin">Exod. 10. 7.</note> have the ſame reaſon now as once <hi>Iſrael</hi> had, when their <hi>Right eyes</hi> 
+                  <note n="a" place="margin">1 Sam. 11. 2.</note> were demanded; and afterward the <hi>Jewes</hi> 
+                  <note n="b" place="margin">Eſth. 9.</note>, when deſigned to deſtruction, the ſame reaſon I ſay to ASSOCIATE our ſelves (there is no other way) To <hi>Aſſemble</hi> our ſelves, to ſtand up every man in his place, for our lives; that we may doe unto thoſe, whom the Lawes of GOD and Man <hi>call oppoſers,</hi> as they would doe and have done to their power, againſt them, whom the King and his party <hi>call oppoſers,</hi> for no other reaſon, then (as was ſaid of a Poore man
+<pb n="15" facs="tcp:111479:8"/> oppreſſed by the mighty) becauſe <hi>they will not receive the Adverſaries whole</hi> 
+                  <note place="margin">
+                     <hi>Qui totum telum in corpus non recipiſſet.</hi> Cic. <hi>de</hi> Fimb<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>â.</note> 
+                  <hi>Sword, blade, hilts and all into their bodies.</hi> We may ſtand looking one upon another, conſulting the way how to <hi>Accomodate a Peace,</hi> when in the meane time, the contrary party gaines Advantage, and ſtrengthens his hand and heart to accompliſh his bloody reſolution: Therefore we muſt think only of our duty, and conclude to ASSOCIATE our ſelves againſt theſe ſonnes of <hi>Belial;</hi> for there is no pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lying with them. The Spring is now come, a time of action, and heare how the Moderatour proſecutes the Advantage on the Kings ſide;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The King hath thoſe that are experienced in all the deſignes of Warre; Intelligencers in the boſome of his Antagoniſts, or elſe his Agents conjure; he has them, that ſerve him to make him Great [let that paſſe, though they will make their Maſter the moſt inglorious Prince in the world] The Nobles and Gentlemen beare their own charges; his Army can de<g ref="char:EOLhyphen"/>fend its ſelfe till the ſpring, and what is likely to be done then let every man judge, that conſiders his party abroad, and almoſt in all Counties.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why do's the Moderatour leave it to every mans judgement, whenas every man cannot judge charitably? The Kings good people will thinke as charitably as poſſibly they can; That he, who is the Sheapheard of his peo<g ref="char:EOLhyphen"/>ple (the King is called ſo I know not how often in ſacred and in other books) That he will not perſiſt to hurry and ſpoile the Sheepe, over whom <hi>God</hi> has made him a Shepheard. It is enough and too much that he hath ſo done this winter. His good people can hardly thinke, That he, who is the <hi>Father of his Countrey,</hi> will ſeek all means to deſtroy his people, whom he ſhould re<g ref="char:EOLhyphen"/>ſpect as his Sons and Daughters; Nor that he, whom <hi>God</hi> hath made <hi>King,</hi> hath ſet upon his own Throne, will endeavour, with his own hands to lay his own Kingdome waſte, to make his <hi>Eden</hi> a <hi>wilderneſſe;</hi> Nor that he, whom <hi>God</hi> has made the <hi>Head</hi> over a great people, will ſpye out what Port is open thereby to take-in inſtruments of cruelty, wherewith to teare the whole <hi>body?</hi> becauſe he is pleaſed to <hi>call</hi> ſome members there, <hi>oppoſers.</hi> His good people will hope as charitably as poſſibly can be, That their King will underſtand his place and Office there; <hi>That, ruling over men, he must be juſt, ruling in the</hi> 
+                  <note place="margin">2 Sam. 23. 3.</note> 
+                  <hi>feare of GOD:</hi> Equity and juſtice muſt ſhine in him, even as the Sun when it is at the higheſt, whereof poor and rich may take refreſhing: he muſt be as the morning when the Sun riſeth, even as <hi>the morning without Clouds.</hi> Thus his poore people will hope concerning him, for <hi>a Prince, that wanteth under<g ref="char:EOLhyphen"/>ſtanding is alſo a great oppreſſour</hi> 
+                  <note n="c" place="margin">Pro. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 16.</note>; his people will think as charitably as poſ<g ref="char:EOLhyphen"/>ſibly they can, concerning their King and theſe matters, notwithſtanding what the Moderatour ſpeaks to the contrary; he ſayes;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>And it is a fond thing certainely to think his Army can want Am<g ref="char:EOLhyphen"/>munition,
+<pb n="16" facs="tcp:111479:9"/> having any Port open, or that it will want money more then the other: If the Kingdom hath it, the Souldier will not be without it, if it have not, they muſt feed on free coſt.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Here we may take a full view of the Kings Army, not ſo terrible for multitudes as they are for injuſtice and violence in their hands; they carry their right on their Swords point; they ſpoile and lay waſte according to the power in their hands, and ſo have a great advantage indeed of thoſe, who muſt walke by rule. This is enough to <hi>fray</hi> us into a <hi>Peace,</hi> as I have ſeen ſome <hi>fray</hi> Sheep into the water. For now that the Spring is come, and ſuch expe<g ref="char:EOLhyphen"/>ctation of Forragne help to take part and joyn with his Forces here; Surely now, if there be not a <hi>Port</hi> and <hi>refuge</hi> open (and GOD be praiſed, that is al<g ref="char:EOLhyphen"/>wayes open) we will lay down our weapons now, and make <hi>Peace</hi> with the Devill: for ſo we may, as the Anſwerer has told us, upon as good termes as with this party, which the Moderatour hath ſo fully deſcribed unto us, and diſcovered before us, <hi>viz.</hi> That rob and pillage and lay all waſte wherever they come; And now that the Spring is come, they expect ſupplies from the Popes ſide, who wait this Advantage, That thoſe angry people and as skilfull to deſtroy, may joyn Forces with the Kings Armies here, to maintaine the eſtabliſhed Religion (that is the pretence, and the Proteſtation too,) the Laws and Liberties of this Kingdome, after they have laid all waſte, and deſtroyed the Kings good people there. And this is the Party with whom we would accomodate a Peace: <hi>God</hi> ſay it not unto our charge. But to the thing in hand; Here we have all the Advantages on the <hi>Kings</hi> ſide; And ſurely a man di<g ref="char:EOLhyphen"/>rected by reaſon cannot tell what to ſay unto all this, But there is one <hi>Port</hi> alwayes open, a <hi>Refuge,</hi> whereunto the <hi>LORDS people can continually reſort,</hi> in aſſured confidence; <hi>That GOD, who remembred</hi> Noah, <hi>and every living</hi> 
+                  <note place="margin">Gen. 8.</note> 
+                  <hi>thing, and all the Cattell that was with him,</hi> will remember His people alſo; He that remembred the Beaſts will remember the Sheep of His paſture; He will have a ſpeciall and peculiar eye to them, who have <hi>held faſt</hi> to the <hi>publike good,</hi> and to their GOD, and are reſolved ſo to demeane themſelves, That man ſhall not be able more then to <hi>call them oppoſers;</hi> Certainely the <hi>Lord</hi> will re<g ref="char:EOLhyphen"/>member theſe; The proud waters threatned to goe over their ſoules; <hi>The floods have lifted up (O LORD) they have lifted up their voice; the floods lift up their waves. (i. e.)</hi> The wicked are exceeding proud, and ſo they ſpeake and doe, as if they could doe what they have a will to doe, againſt thoſe, whom they <hi>ſhall call oppoſers. The LORD on high is mightier then the noiſe of many waters, yea then the mighty waves of the Sea</hi> (i. e.) The LORD is above them: <hi>And though the LORD be ſo high, yet hath He a respect unto the lowly: Though I walke in the midſt of trouble Thou wilt revive me; Thou ſhalt ſtretch forth Thine Hand against the wrath of mine enemies, and thy right hand ſhall ſave me,</hi> ſaith the <note place="margin">Pſ. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 7.</note>
+                  <pb n="17" facs="tcp:111479:9"/> Church; And it is the Anchor of their hope, ſure and ſtedfaſt. Therfore now that the <hi>Spring</hi> is come, this people are not afraid <hi>with any amazement;</hi> now that the Adverſary, by his fraud and cunning, is turning the <hi>Peace</hi> as they have tur<g ref="char:EOLhyphen"/>ned <hi>Religion and Law,</hi> all to the moſt pernicious and curſed abuſe; Now are <hi>Gods</hi> people turning themſelves to GOD; They put no truſt in a <hi>ſyllabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> but in GOD, Who is of more Advantage to His people then are the Armies of Men and Devils againſt them. He is GOD of <hi>Hoſts, Power and wiſedome ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> His, A</hi> 
+                  <note n="a" place="margin">Neh. 4. 14.</note> 
+                  <hi>Great GOD and terrible, a diſcovering GOD;</hi> Let <hi>Iſrael</hi> ſay ſo, He that told <hi>Eliſha</hi> the words, that were ſpoken in the Kings Bed-chamber. <note n="b" place="margin">2 King. 6 12.</note> 
+                  <hi>He revealeth the deep and ſecret things; He knoweth what is in the darkneſſe, and the light dwelleth in Him</hi> 
+                  <note n="c" place="margin">Dan. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 22.</note>, His ſervants need not conjure, their <hi>God</hi> is a diſcovering <hi>God, Iſrael</hi> muſt ſay ſo. <hi>Jacob,</hi> though a <hi>worme,</hi> is not afraid now, no not at all this; They will ſet this one GOD againſt all that we reade before; They will take courage and be confident, for their <hi>God</hi> is on their ſide, and that is Advantage enough. And the LORD CHRIST, (of no Advantage, as He is but a <hi>ſyllable,)</hi> but of mighty Advantage, as He is a <hi>mighty Saviour, a Redeemer that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtrong, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> LORD of Hoſts is His Name, He ſhall throughly plead their cauſe, that He may give rest to the Land, and diſquiet the inhabitants of</hi> Babilon. <hi>Truth</hi> is <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſyllable</hi> alſo, (our <hi>Engliſh</hi> Tongue abounds there, no Tongue more, therefore no truſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that, but) of mighty advantage as <hi>Gods</hi> eye is upon the <hi>Truth;</hi> He will main<g ref="char:EOLhyphen"/>tain His own Cauſe, <hi>and His Hand is upon all them for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood that ſeek <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> but His Power and His wrath is againſt all them that forſake. Him</hi> 
+                  <note n="*" place="margin">Ezra. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 22.</note>, them that the <hi>Law calls oppoſers,</hi> and reſiſters of His holy will; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe ſhall one day feele to their ſmart and everlaſting confuſion, what it is to be a Rebell, and a Traitour in <hi>Gods</hi> account, To be called ſo by Him, Who calls things as they are. But by Him <hi>Jacob</hi> ſhall run through a Troope, and by this <hi>God</hi> he ſhall leape <hi>over a</hi> 
+                  <note place="margin">Pſ. 18. 29.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all;</hi> with the help of <hi>God</hi> we alſo, that were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oward<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before will be valiant for the <hi>Truth,</hi> His Cauſe, (though we be <hi>called oppoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> for that) and for the <hi>Ci<g ref="char:EOLhyphen"/>ties</hi> of our <hi>God,</hi> and then remit the whole matter to Him <hi>our Righteouſnes;</hi> Let Him doe what is good in His eyes <note n="f" place="margin">2 Sam. 18 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>. The <hi>Lord</hi> does all things well; and <hi>Iſrael</hi> ſhall ſay, All that was done, was done for the beſt, to magnifie the Name of their <hi>God</hi> and His Hand in the ſalvation of His people. Wait we a little for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Lord waiteth to be gracious</hi> and all theſe ſeeming Advantage<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on the Adverſa<g ref="char:EOLhyphen"/>ries ſide, ſhall greatly Advantage His people in the prom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting the <hi>Glory</hi> of <hi>GOD</hi> and the Peace of <hi>Iſrael,</hi> Amen.</p>
+               <p>The <hi>Moderatour</hi> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done now with the Advantage<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on the Kings ſide; and he tells us, it were a vaine worke for him, <q>
+                     <hi>To ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mme-up all the ſtrength and Advantages which the Parliament has go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> together for its deſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>; and to goe, through with its deſignes: And there <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> puts a ſcorne upon them, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er his manner, and paſſeth on:</hi> I will paſſe on too, only we muſt remember w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t we reade,</q> 
+                  <hi>The ſcorner is an abomination</hi> 
+                  <note n="g" place="margin">Pro. 24. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>: and the greateſt reaſon he ſhould b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:111479:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:111479:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:111479:11"/> ſo, <hi>for be bringeth a City into a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nare</hi> 
+                  <note n="h" place="margin">Pro. 29 8.</note>, nay more then ſo, <hi>he ſets a City o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> And yet he hath not done ſo much to the <hi>ſcorne</hi> of the <hi>City;</hi> as he hath to the ſcorne and reproach of his <hi>King.</hi> Certainly a Man cannot imagine what h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <note place="margin">
+                     <hi>i Inflam<g ref="char:EOLhyphen"/>mant ſuf<g ref="char:EOLhyphen"/>flant.</hi> Trem.</note> could have ſpoken more to his Kings diſhonour, and to the ſcorne and eternall reproach of his party. But for all this, he may find an <hi>Advocate.</hi> He hath ſpoken alſo to the diſhonour of <hi>God,</hi> and to the weakening the hands of His people lifted up for the Cauſe of their <hi>God,</hi> and His <hi>Anointed,</hi> and there I will not ſpare him; he hath laboured what he can, that the poore people may ſee more in their <hi>King,</hi> then in a <hi>God;</hi> more in the <hi>anger</hi> of a <hi>King</hi> then in the <hi>wrath</hi> of the <hi>LORD;</hi> more in a <hi>Peace</hi> accomodated by Man, then in a <hi>Peace</hi> given from <hi>God.</hi> My work is now to remove the vaile which he hath ſpread before the eye. By <hi>Gods</hi> good hand with me, I ſhall be able to doe it; To make it cleare to every mans eye, who will not wilfully ſhut it up, <hi>That GOD anſwers every particl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, jote and tittle, in the Advantages on the Adverſaries ſide;</hi> And ſhall wil<g ref="char:EOLhyphen"/>lingly endeavour this for my Countries ſake, whoſe peace I wiſh as I doe the peace of my own ſoule; firſt;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <q>The <hi>King</hi> can call an <hi>hold faſt to the publike good,</hi> a Rebellion and Treaſon.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Look to <hi>God</hi> now. He will call things as they are, and this <hi>hold faſt</hi> He will call <hi>Loyalty</hi> to thy Prince, and <hi>faithfullneſſe</hi> towards his people: And He will cleare thy <hi>innocency</hi> at this point as the morning; and thy <hi>Righteouſneſſe</hi> as the noone Day. He will account and call thee His <hi>Friend,</hi> and then no matter what others call thee.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>2. <q>The <hi>King</hi> is able to fit the humour of every Man.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Looke to <hi>God,</hi> and be upright, Then enlarge thy deſire towards Him; <hi>He will ſatisfie thy deſire;</hi> whereas thou mayeſt ſearch all the world over, and all the creatures there, and diſtill the marrow and juyce of them, and yet find but wearines, and emp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ines in them all; for ſo capacious the ſoule is, and ſo unſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fiable in all ſhe finds and fixeth upon here below, till it cometh and fixeth on Him, in Whom <hi>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fullneſſe</hi> and ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>3. <q>The <hi>King</hi> has favour and promiſes, and poſſibility of preferments, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Look to <hi>God, In His favour is life</hi> 
+                  <note n="k" place="margin">Pſal. 30. 5.</note>; And He has given thee <hi>rich and precious promiſes,</hi> both concerning this life and a better; and more then a poſſibility <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> certainty of <hi>ſuch an honour,</hi> as have the <hi>Saints</hi> 
+                  <note n="*" place="margin">Pſa. 146. 9.</note>, and that is an honour unſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>kable, to have the <hi>friends</hi> and <hi>favourites</hi> of <hi>GOD,</hi> whom He will honour.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>4. <q>He hath the Power of a Pardon.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I would the Moderatour had not ſaid ſo, That the King has a <hi>Power</hi> on <hi>will</hi> either, to pardon the wicked, to account them innocent, whom the <hi>LORD <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth.</hi> But ſo the will of man may be, and his power alſo. Look to <hi>God</hi> now; <hi>He will by no means cleare the guilty</hi> 
+                  <note n="l" place="margin">Exo. 24. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>: <hi>But the LORD the LORD GOD, merci<g ref="char:EOLhyphen"/>full,</hi> &amp;c. <hi>will multiply pardons</hi> to the hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be ſoule, as his ſins are, though as the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nds for multitude: fixe upon this <hi>GOD;</hi> ſurely it belongs to Him to ſay, <hi>I</hi>
+                  <pb n="19" facs="tcp:111479:11"/> 
+                  <hi>have Power to Pardon.</hi> Let others ſay what they will, and boaſt of their excom<g ref="char:EOLhyphen"/>munication (which we care no more for, then we doe the bellowing of a <hi>Bull:)</hi> or their pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dons (which we reſpect no more then the dirt under our feet) The ſaid full ſoule will hearken what <hi>the LORD ſayes for He speaks Peace.</hi> 
+                  <note place="margin">Pſ. 85. 8.</note>
+               </p>
+               <p>That which followes is corrupt dealing, and faſe-hood, which th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Lords</hi> ſoule hates; <hi>His eyes are upon the Truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>5. <q>The <hi>King</hi> has penalties of Treaſon againſt thoſe, who<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>he ſhall call oppoſers.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>Lord</hi> has abundance of mercy and loving kindoes, to ſhew to thoſe, whom He accounts faithfull.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>6. <q>The <hi>King</hi> hath a Counſell well mixed, cunning in the Law, and that know how to turne it to <hi>the moſt neceſſary uſe</hi> [here is plaine dealing.]</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Look up to <hi>God</hi> now, for now is the time; Thou art in a wildernes, ſeeſt no path there; knoweſt not in the world what way to take; Cunning crafty men deviſe miſchiefe, they are turning the very <hi>Law</hi> againſt thee, whence thou doſt expect help: It is time now to look about thee and conſider: <hi>on whoſe ſhoulders is the governement</hi> 
+                  <note n="m" place="margin">Eſa. 9. 6.</note>? Enquire into that, and what <hi>His Name is?</hi> It will be told thee, <hi>His Name is called WONDERF<g ref="char:V">Ʋ</g>LL CO<g ref="char:V">Ʋ</g>NCELLO<g ref="char:V">Ʋ</g>R, The migh<g ref="char:EOLhyphen"/>ty GOD:</hi> One letter of this Name is enough to ſuſtaine all the faithfull in the world, though all the wiſedom and ſtrength in the world, and the gates of H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, be againſt them. <hi>There is no wiſdome, nor underſtanding nor counſell againſt the</hi> 
+                  <note n="n" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pro. 21. 30.</note> 
+                  <hi>LORD.</hi> Will the cunning, crafty man, will he counſell againſt the LORD? <hi>The stepps of his ſtrength ſhall be ſtraitned; and his own counſell ſhall caſt him downe</hi> 
+                  <note n="o" place="margin">Iob 18. 7.</note>. There is no Power againſt the LORD neither; will the Aſſemblies of the wicked <hi>Aſſociate</hi> themſelves; will they gird on their harneſſes, and goe out againſt the <hi>LORDS hidden ones?</hi>
+               </p>
+               <p>Is this the very purpoſe of their <hi>Aſſociation?</hi> It tells the Righteous what they are to doe as it bids them, Looke up to <hi>GOD,</hi> hearken what He ſaith; <hi>ye ſhall be broken in pieces; ye ſhall be broken in pieces; ye ſhall be broken in pieces;</hi> Moſt certainely ſo, and therefore it is thrice repeated in one place. <hi>Ob.</hi> But in the <note place="margin">Eſa. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9.</note> meane time the wicked breake the Righteous to pieces; <hi>A.</hi> I pray you now marke what followes; <hi>The LORD, the LORD, the diſcovering GOD, the CO<g ref="char:V">Ʋ</g>NSELLO<g ref="char:V">Ʋ</g>R,</hi> as well verſed in the <hi>Law,</hi> as the mixed Counſell ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and as they can turne the <hi>Law,</hi> ſo the <hi>LORD GOD</hi> can turne their might and counſells <hi>upſide downe:</hi> All their <hi>Malignancie to the moſt neceſſary uſe.</hi> What is that? To the magnifying His own Name, and His peoples comfort, in the confounding of them and their counſels. We muſt not ſtand and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into the manner how, The LORD will turne about all this, <hi>To the moſt neceſſary uſe;</hi> But the <hi>Lord</hi> will doe it, we are reſolved upon that, and in the beſt time. And now we care not, how bigge the Kings Army is; we have knowne an Army a thouſand times bigger, and yet could doe <hi>Judah</hi> no hurt, none at all, but good a great deale. Nor are we afraid of the <hi>Spring</hi> now it is come. We
+<pb n="20" facs="tcp:111479:12"/> know the <hi>Nations are angry;</hi> and we know the reaſon of their wrath, though their wrath knowes no reaſon: And yet what a fond thing is it to think, that the Nations can doe what is in the purpoſe of their hearts to doe. While His ſervants are about His work, apply themſelves to that, Let the LORD alone with <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e reſt, He can order it ſo, that the Enemies <hi>ſhall not deſire this Land</hi> 
+                  <note n="p" place="margin">Exo. 34 25.</note>: He can take-off their ſpirit; But if they doe come-in, with GODS leave, like a <hi>flood, He can lift-up a Standard againſt them,</hi> for that is His promiſe <note n="q" place="margin">Eſa. 59. 19.</note>; He can <hi>looke-out</hi> upon them, <note n="r" place="margin">Exo. 14. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. Eſa 17. 12, 13.</note> and <hi>truble their Hoſt,</hi> make them <hi>drive heavily; He can chaſe them, as the chaffe of the Mountaines before the winde, and as a rowling thing befor the whirlewind.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Laſtly, and ſo to give the marrow of all the Moderatour hath ſaid in point of <hi>Advantage,</hi> and to Argue the <hi>accomodating a Peace</hi> with the Kings party; <hi>They have Power and Policy with them;</hi> That is all;</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By the ſame Argument and no other, I can argue for a peace with the Devill; but I muſt conclude a Peace with <hi>God,</hi> for Counſell and Might are with Him. I have ſaid: and this I have ſaid for excellent reaſon;</p>
+               <p n="1">1. That we may feare more the frowne of <hi>God,</hi> then the wrath of Princi<g ref="char:EOLhyphen"/>palities, and Powers, Angells and Men; That we may ſee more in the favour of <hi>God,</hi> then in the favour of all the Emperours, Kings and Princes of the World; More excellent <hi>Glory</hi> in Him, then in all their Courts and Crownes. In a word, That we may <hi>ſee</hi> All in Him, and then we ſhall <hi>find</hi> all in Him; All Advantages in His being on our ſide: we ſhall expect all from Him; and then returne all to Him.</p>
+               <p n="2">2. That we may make this Concluſion; we will ſumme up all we have in one <hi>GOD;</hi> All our counſells, All our ſtrength, All our comforts, we will ſumme<g ref="char:EOLhyphen"/>up all in one <hi>God:</hi> for as <hi>Jacob</hi> ſaid, <hi>He is ALL</hi> 
+                  <note n="a" place="margin">Gen. 33. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</note>, And if we have Him, we hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ENOUGH indeed. Oh that we could ſee what is in <hi>GOD!</hi> what <hi>Wiſedome</hi> what <hi>Power,</hi> what <hi>Good<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſe!</hi> we ſhould then ſay, He is <hi>ALL</hi> indeed. Oh tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we did know this <hi>GOD!</hi> we ſhould then know the weight of duty, how t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>feare GOD,</hi> and <hi>honour</hi> the <hi>King.</hi> We ſhould then be able, as to reſolve our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill into His <hi>Will;</hi> ſo alſo our <hi>feare</hi> into His <hi>Feare;</hi> our <hi>love</hi> into His <hi>Love,</hi> We ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſolve all our comforts into Him; We would not be troubled how broke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Ciſternes are, all our purſute, the very ſtrength of our deſires would be afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>fountaine.</hi>
+               </p>
+               <p>And thus much in a deare affection to the <hi>King</hi> and <hi>Kingdome;</hi> That we ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſee where ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dvantage lieth, and where <hi>Peace</hi> is to be had, from the <hi>Princ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Peace,</hi> and Father <hi>not of ſome, but of all Conſolution;</hi> And all this, That we ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſten to make our Peace with Him, that we may be found of <hi>Him in Peace and ſu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e-up all in Him,</hi> Amen.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Day of Iacobs trouble, and Yeare of hope that he ſhall be delivered out of it, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
